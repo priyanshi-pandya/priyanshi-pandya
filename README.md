@@ -1,16 +1,19 @@
-<h1 align="center">Hi 👋, I'm Priyanshi Pandya</h1>
-<h3 align="center">Flutter Developer | Tech Explorer | Lifelong Learner</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Priyanshi Pandya</h1>
+  <h3>Flutter Developer | Tech Explorer | Lifelong Learner</h3>
+</div>
 
-<p align="center">
-  <img src="https://github.com/priyanshi-pandya/priyanshi-pandya/blob/main/your-banner-name.png?raw=true" alt="Priyanshi Pandya Banner" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://github.com/priyanshi-pandya/priyanshi-pandya/blob/main/harvey-spector.png?raw=true" alt="Profile Quote" width="300"/>
+</div>
 
 ---
 
-### 🌸 About Me  
-- 🔭 Currently working as a **Flutter Developer**  
-- 🌱 Exploring **Java**, and **Python**
-- 💬 Ask me about anything related to **Flutter** or **Dart**  
+### 🌸 About Me
+
+- 🛠️ I love building **scalable mobile apps** with **Flutter**.
+- 💬 Ask me about anything related to **Flutter** or **Dart**.
+- 🌱 Currently exploring **Java** and **Python**.
 - ✨ *"Code like poetry – expressive, clean, and powerful."*
 
 ---
@@ -54,10 +57,27 @@
 
 ### 📈 GitHub Stats  
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshi-pandya&show_icons=true&theme=radical" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshi-pandya&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="github stats" />
 </p>
 
 ---
+
+
+### 🔠 Most Used Languages
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshi-pandya&layout=compact&theme=radical&count_private=true&include_all_commits=true" alt="most used languages"/>
+</p>
+
+---
+
+<!---
+### 🔥 Contribution Streak
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshi-pandya&theme=radical&count_private=true" alt="contribution streak" />
+</p>
+
+---
+-->
 
 ### 👀 Visitor Count  
 <p>
