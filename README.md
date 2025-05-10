@@ -62,13 +62,13 @@
 
 ---
 
-
+<!---
 ### 🔠 Most Used Languages
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshi-pandya&layout=compact&theme=radical&count_private=true&include_all_commits=true" alt="most used languages"/>
 </p>
 
----
+-->
 
 <!---
 ### 🔥 Contribution Streak
