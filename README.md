@@ -1,20 +1,29 @@
 <div align="center">
   <h1>Hi 👋, I'm Priyanshi Pandya</h1>
-  <h3>Flutter Developer | Tech Explorer | Lifelong Learner</h3>
+  <h3>Turning ideas into shipped products</h3>
 </div>
 
 <div align="center">
-  <img src="./mitsuri-kanroji.gif" width="300"/>
+  <img src="./mitsuri-kanroji.gif" />
 </div>
 
 ---
 
 ### 🌸 About Me
 
-- 🛠️ I love building **scalable mobile apps** with **Flutter**.
-- 💬 Ask me about anything related to **Flutter** or **Dart**.
-- 🌱 Currently exploring **Java** and **Python**.
-- ✨ *"Code like poetry – expressive, clean, and powerful."*
+- 🛠️ Flutter engineer building production-grade systems
+- 🧱 Architecting apps with Clean Architecture & modular design
+- ⚡ Working on real-time features and scalable app infrastructure
+- 🚀 Contributing to platforms used by 1000+ users
+
+---
+
+### 🧠 Engineering Philosophy
+
+- Clean Architecture over quick hacks
+- Scalability is designed, not added later
+- Readability > cleverness
+- Performance is a feature
 
 ---
 
