@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/priyanshi-pandya/priyanshi-pandya/blob/main/harvey-spector.png?raw=true" alt="Profile Quote" width="300"/>
+  <img src="./mitsuri-kanroji.gif" width="300"/>
 </div>
 
 ---
